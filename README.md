@@ -3,9 +3,9 @@ Using 3 classification algorithms for diabetes prediction on PIMA indian diabete
 
 
 # Packages used
--sklearn
--matplotlib
--kaggle
--numpy
--pandas
+- sklearn
+- matplotlib
+- kaggle
+- numpy
+- pandas
 
